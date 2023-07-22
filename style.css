@@ -86,7 +86,7 @@ main .search-bar input:hover {
 }
 main .search-bar input::-webkit-search-cancel-button {
   appearance: none;
-  background-image: url(img/svg2.svg);
+  background-image: url(svg2.svg);
   background-size: 25px 25px;
   height: 25px;
   width: 25px;
